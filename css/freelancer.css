@@ -51,17 +51,17 @@ hr.star-primary:after {
   content: '\f005'; }
 
 hr.star-light {
-  border-color: #59a63f; }
+  border-color: #00cd00; }
 
 hr.star-light:after {
-  color: #59a63f;
+  color:#00cd00;
   background-color: #ffffb3; }
 
 hr.star-primary {
-  border-color: #59a63f; }
+  border-color: #00cd00; }
 
 hr.star-primary:after {
-  color: #59a63f;
+  color: #00cd00;
   background-color: white; }
 
 .img-centered {
@@ -115,7 +115,7 @@ section.success {
   font-weight: 700;
   text-transform: uppercase;
   border: none;
-  background: #59a63f; }
+  background: #00cd00; }
   #mainNav a:focus {
     outline: none; }
   #mainNav .navbar-brand {
@@ -213,7 +213,8 @@ header.masthead {
       -moz-transition: all ease 0.5s;
       transition: all ease 0.5s;
       opacity: 0;
-      background: #ffffb3; }
+      border-style: outset;
+      border-width: 10px;}
       #portfolio .portfolio-item .portfolio-link .caption:hover {
         opacity: 1; }
       #portfolio .portfolio-item .portfolio-link .caption .caption-content {
@@ -281,7 +282,7 @@ header.masthead {
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
-    background-color: #59a63f; }
+    background-color: #00cd00; }
     .portfolio-modal .close-modal .lr .rl {
       /* Safari and Chrome */
       z-index: 1052;
@@ -291,7 +292,7 @@ header.masthead {
       -webkit-transform: rotate(90deg);
       -ms-transform: rotate(90deg);
       transform: rotate(90deg);
-      background-color: #59a63f; }
+      background-color: #00cd00; }
 
 .portfolio-modal .modal-backdrop {
   display: none;
@@ -349,12 +350,12 @@ footer {
     margin-bottom: 30px; }
   footer .footer-above {
     padding-top: 50px;
-    background-color: #59a63f; }
+    background-color: #00cd00; }
   footer .footer-col {
     margin-bottom: 50px; }
   footer .footer-below {
     padding: 25px 0;
-    background-color: #59a63f; }
+    background-color: #00cd00; }
 
 .btn-outline {
   font-size: 20px;
@@ -371,8 +372,8 @@ footer {
 .btn-primary {
   font-weight: 700;
   color: white;
-  border-color: #59a63f;
-  background-color: #59a63f; }
+  border-color: #00cd00;
+  background-color: #00cd00; }
   .btn-primary.focus, .btn-primary:focus {
     color: white;
     border-color: black;
@@ -400,10 +401,10 @@ footer {
   fieldset[disabled] .btn-primary.focus,
   fieldset[disabled] .btn-primary:focus,
   fieldset[disabled] .btn-primary:hover {
-    border-color: #59a63f;
-    background-color: #59a63f; }
+    border-color: #00cd00;
+    background-color: #00cd00 }
   .btn-primary .badge {
-    color: #59a63f;
+    color: #00cd00;
     background-color: white; }
 
 .btn-success {
