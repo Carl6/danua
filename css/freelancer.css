@@ -51,17 +51,17 @@ hr.star-primary:after {
   content: '\f005'; }
 
 hr.star-light {
-  border-color: #00cd00; }
+  border-color: #33ff33; }
 
 hr.star-light:after {
-  color:#00cd00;
+  color:#33ff33;
   background-color: white; }
 
 hr.star-primary {
-  border-color: #00cd00; }
+  border-color: #33ff33; }
 
 hr.star-primary:after {
-  color: #00cd00;
+  color: #33ff33;
   background-color: white; }
 
 .img-centered {
@@ -115,7 +115,7 @@ section.success {
   font-weight: 700;
   text-transform: uppercase;
   border: none;
-  background: #00cd00; }
+  background: #339933 }
   #mainNav a:focus {
     outline: none; }
   #mainNav .navbar-brand {
@@ -350,12 +350,12 @@ footer {
     margin-bottom: 30px; }
   footer .footer-above {
     padding-top: 50px;
-    background-color: #b2f0b2; }
+    background-color: #ccff66; }
   footer .footer-col {
     margin-bottom: 50px; }
   footer .footer-below {
     padding: 25px 0;
-    background-color: #b2f0b2; }
+    background-color: #ccff66; }
 
 .btn-outline {
   font-size: 20px;
